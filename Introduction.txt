@@ -1,0 +1,2 @@
+This section is starting of my coding adventure. In this, i solved problems a pdf book called Java which is located in Problems file. There are so many types of problems by created Abdurakhimov Kudrat who is founder of GITA academy. I tried to do my best as much as possible. 
+   IN addition to that, the first 3 lessons were solved by C++ and rest were finished by Java coding language.
